@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Skjold med en højttaler skåret ud (notifikationsikoner skal være ensfarvede). -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M12,1L3,5v6c0,5.55 3.84,10.74 9,12 5.16,-1.26 9,-6.45 9,-12V5l-9,-4zM7.5,10h2.5l3.5,-3v10l-3.5,-3h-2.5zM15,9.2a3.6,3.6 0,0 1,0 5.6l-0.9,-1.1a2.2,2.2 0,0 0,0 -3.4z" />
+</vector>

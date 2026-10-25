@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Kids Volume Limiter</string>
+    <string name="title_activity_main">Kids Volume Limiter</string>
+    <string name="package_name">dk.kidsvolume.limiter</string>
+    <string name="custom_url_scheme">dk.kidsvolume.limiter</string>
+
+    <string name="notification_channel_name">Lydbeskyttelse</string>
+    <string name="notification_channel_description">Vises, mens Kids Volume Limiter holder øje med lydstyrken.</string>
+    <string name="notification_title">Lydbegrænsning er aktiv</string>
+    <string name="notification_route_limit">%1$s %2$d %%</string>
+    <string name="notification_route_unlimited">%1$s ubegrænset</string>
+    <string name="route_speaker">Højttalere</string>
+    <string name="route_headphones">Hovedtelefoner</string>
+    <string name="route_bluetooth">Bluetooth</string>
+</resources>

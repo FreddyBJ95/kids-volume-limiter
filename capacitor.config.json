@@ -1,0 +1,10 @@
+{
+  "appId": "dk.kidsvolume.limiter",
+  "appName": "Kids Volume Limiter",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": false,
+    "webContentsDebuggingEnabled": false
+  }
+}

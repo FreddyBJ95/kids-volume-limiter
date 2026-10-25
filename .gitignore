@@ -1,0 +1,23 @@
+node_modules/
+dist/
+*.log
+.claude/
+
+# Færdige APK'er lægges som GitHub-release, ikke i git
+release/
+*.apk
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/capacitor-cordova-android-plugins/build/
+android/local.properties
+android/.idea/
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+android/app/src/main/res/xml/config.xml
+*.keystore
+*.jks
+keystore.properties
